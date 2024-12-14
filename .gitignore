@@ -27,3 +27,4 @@ go.work.sum
 /.idea/modules.xml
 /.idea/vcs.xml
 /.idea/x-release.iml
+/.idea/workspace.xml
